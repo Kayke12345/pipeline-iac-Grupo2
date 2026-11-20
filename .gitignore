@@ -1,4 +1,0 @@
-.gitignore
-infra/.terraform/
-infra/*.tfstate*
-infra/ambiente.txt
