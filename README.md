@@ -6,16 +6,16 @@
 - Kayke – Coordenador
 
 ## Evidências
-1. Print da execução verde (jobs testar e infraestrutura)
+   **1. Print da execução verde (jobs testar e infraestrutura)**
    <img width="945" height="265" alt="image" src="https://github.com/user-attachments/assets/f2278935-a46b-4f1f-9c70-31bce2ca2a7d" />
 
-2. Print do passo terraform plan com a linha &quot;Plan: 1 to add&quot;
+   **2. Print do passo terraform plan com a linha &quot;Plan: 1 to add&quot;**
    <img width="945" height="749" alt="image" src="https://github.com/user-attachments/assets/55a7ac03-2fdf-49de-b71f-65b1b80de7d2" />
 
-3. Print do pull request com o teste falhando (vermelho)
+   **3. Print do pull request com o teste falhando (vermelho)**
    <img width="945" height="422" alt="image" src="https://github.com/user-attachments/assets/d93cab2b-e180-4e46-96e0-8f2e9cb552b3" />
 
-4. Print do pull request corrigido (verde) e do merge
+   **4. Print do pull request corrigido (verde) e do merge**
    <img width="922" height="553" alt="image" src="https://github.com/user-attachments/assets/a9a7b05a-09ba-4971-8e7a-1e156acfff4c" />
 
 ## Respostas
